@@ -1,40 +1,46 @@
-id: opecha:P000280
+id: P000280
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG8900
   title: གསུང་འབུམ། ངག་དབང་ཆོས་གྲགས། ༼རྫོང་སར་ཁམས་བྱེའི་གློག་ཀླད་པར་མ།༽
-  volume:
+  author: ''
+  volumes:
     d7f0a7a35999486e97617be3a8756a77:
       image_group_id: I1KG8989
       title: Volume 1 of gsung 'bum/_ngag dbang chos grags/ (rdzong sar khams bye)
       volume_number: 1
       total_pages: 602
+      base_file: v001.txt
     24c3c26b0ca0404282ba5099ad339deb:
       image_group_id: I1KG8990
       title: Volume 2 of gsung 'bum/_ngag dbang chos grags/ (rdzong sar khams bye)
       volume_number: 2
       total_pages: 604
+      base_file: v002.txt
     bffffa4ed6924bd3b4b37309c741d9d3:
       image_group_id: I1KG8991
       title: Volume 3 of gsung 'bum/_ngag dbang chos grags/ (rdzong sar khams bye)
       volume_number: 3
       total_pages: 722
+      base_file: v003.txt
     eef8bbab7c2041c9934daa510279f667:
       image_group_id: I1KG8992
       title: Volume 4 of gsung 'bum/_ngag dbang chos grags/ (rdzong sar khams bye)
       volume_number: 4
       total_pages: 672
+      base_file: v004.txt
     a8ffe6da606e4d1f869a4bfda3c2f821:
       image_group_id: I1KG8993
       title: Volume 5 of gsung 'bum/_ngag dbang chos grags/ (rdzong sar khams bye)
       volume_number: 5
       total_pages: 566
+      base_file: v005.txt
     4d3e1ba5fc2f420ea6fb2ece896ae254:
       image_group_id: I1KG8994
       title: Volume 6 of gsung 'bum/_ngag dbang chos grags/ (rdzong sar khams bye)
       volume_number: 6
       total_pages: 660
-  author: ''
+      base_file: v006.txt
 ebook_metadata:
   title: གསུང་འབུམ། ངག་དབང་ཆོས་གྲགས། ༼རྫོང་སར་ཁམས་བྱེའི་གློག་ཀླད་པར་མ།༽
   author: ''
