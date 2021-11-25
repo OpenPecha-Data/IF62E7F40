@@ -1,5 +1,7 @@
 id: P000280
 initial_creation_type: ocr
+created_at: 20/02/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG8900
   title: གསུང་འབུམ། ངག་དབང་ཆོས་གྲགས། ༼རྫོང་སར་ཁམས་བྱེའི་གློག་ཀླད་པར་མ།༽
@@ -41,10 +43,3 @@ source_metadata:
       volume_number: 6
       total_pages: 660
       base_file: v006.txt
-ebook_metadata:
-  title: གསུང་འབུམ། ངག་དབང་ཆོས་གྲགས། ༼རྫོང་སར་ཁམས་བྱེའི་གློག་ཀླད་པར་མ།༽
-  author: ''
-  sku: P000280
-  cover: cover.jpg
-  layers:
-  - pagination
